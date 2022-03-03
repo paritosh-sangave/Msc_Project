@@ -1,4 +1,4 @@
 # Msc_Project
 
-This repository contains project work that was submitted for partial fulfillment of MSc degree. <br \>
-This project aims to obtain hamiltonian description and brackets for phase space constrained theories. <br \>
+This repository contains project work that was submitted for partial fulfillment of MSc degree. <br />
+This project aims to obtain hamiltonian description and brackets for phase space constrained theories.
